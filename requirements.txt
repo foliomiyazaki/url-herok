@@ -6,4 +6,6 @@ pandas
 openai
 requests
 openpyxl
+chromedriver-autoinstaller
+pyvirtualdisplay
 
